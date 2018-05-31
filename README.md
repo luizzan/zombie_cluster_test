@@ -1,14 +1,14 @@
 # zombie_cluster_test
 
-This project is the result of a test I had to pass after applying to a position of Data Scientist at Machine Learning consulting company in 2017.
+This project is the result of a test I had to pass after applying to a position of Data Scientist at a Machine Learning consulting company in 2017.
 
 ## The test - as provided by the company
 
-Briefly, the task has two parts:
-(1) soft-skills part: imagine we have three projects to do now, how will you manage work in our team?
+Briefly, the task has two parts:<br>
+(1) soft-skills part: imagine we have three projects to do now, how will you manage work in our team?<br>
 (2) technical part: solve one of the tasks.
 
-Here are details:
+Here are the details:
 
 ### 1. You are a manager.
 
@@ -36,5 +36,4 @@ Solve one of the three tasks (_I am showing only one here_) mentioned above and 
 
 **Data** : https://storage.googleapis.com/montco-stats/tz.csv
 
-Here is data from accidents that happen in city XYZ.
-Evil zombies have destroyed all central rescue stations in the city. The state has statistics where emergency problems occurred in last year (data above) and they are not sure whether the emergency stations were placed efficiently. Note that ambulances were sent only to EMS problems. Therefore, they asked us to find places where they should build 5 (of the same size) emergency stations. What will their position be? (for the sake of simplicity, you can use manhattan distance, but you can also link it to the real geographic distance if you want :)
+Here is data from accidents that happen in city XYZ. Evil zombies have destroyed all central rescue stations in the city. The state has statistics where emergency problems occurred in last year (data above) and they are not sure whether the emergency stations were placed efficiently. Note that ambulances were sent only to EMS problems. Therefore, they asked us to find places where they should build 5 (of the same size) emergency stations. What will their position be? (for the sake of simplicity, you can use manhattan distance, but you can also link it to the real geographic distance if you want :)
